@@ -19,21 +19,19 @@
 :arrow_forward: Javascript  
 :arrow_forward: HTML5  
 :arrow_forward: CSS  
-:arrow_forward: Bootstrap
-:arrow_forward: Zustand, Redux
-:arrow_forward: Vite
-:arrow_forward: Axios
+:arrow_forward: Bootstrap  
+:arrow_forward: Zustand, Redux  
+:arrow_forward: Vite  
+:arrow_forward: Axios  
 :arrow_forward: Responsive Design  
 :arrow_forward: GitHub, Git  
 
 ## Skills & Technologies Backend
 
-:arrow_forward: NodeJS
-:arrow_forward: Express
-:arrow_forward: Prisma
-:arrow_forward: GraphSQL
-:arrow_forward: JWT
-:arrow_forward: PostgreSQL
+:arrow_forward: NodeJS  
+:arrow_forward: Express  
+:arrow_forward: Prisma  
+:arrow_forward: GraphSQL  
+:arrow_forward: JWT  
+:arrow_forward: PostgreSQL  
 :arrow_forward: Moongose
-
-
