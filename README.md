@@ -1,16 +1,17 @@
+#                    Full Stack Developer
+
+            ![Website](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdeibi-arias-58396a224%2F) |  ![Website](https://[https://platzi.com/p/andgag/])
+
 ## Hi there 👋
 
-<!--
-**dgagan2/dgagan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile, I'm a Systems Engineer passionate about web development.
 
-Here are some ideas to get you started:
+## Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:arrow_forward: ReactJS  
+:arrow_forward: Javascript  
+:arrow_forward: HTML5  
+:arrow_forward: CSS  
+:arrow_forward: Responsive Design  
+:arrow_forward: GitHub, Git  
+:arrow_forward: Teamwork
