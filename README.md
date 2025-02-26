@@ -1,5 +1,7 @@
 <p align="center" width="300">
+<p align="center">
    <img align="center" width="200" src="https://media.licdn.com/dms/image/v2/D4E03AQFEQscvCQbIow/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1679962536366?e=1746057600&v=beta&t=sumcF-lVqnqDOmONdThZ-N1zsr1tGbLiM2ttkOKY4lw" alt="Profile Picture" style="border-radius: 50%;" />
+</p>
    <h3 align="center">¡Hey 👋! I´m Deibi 👨🏻‍💻</h3>
 </p>
 <p align="center">
